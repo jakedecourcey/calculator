@@ -2,7 +2,7 @@
 
 ### *By Jacob DeCourcey*
 
-This calculator was created as homework for *Programming for the Web with JavaScript* by PennX. The use cases can be found below. There were no asthetic requirements, but the default html provided was hideous, so I cleaned it up a little.
+This calculator was created as homework for *Programming for the Web with JavaScript* by PennX. The use cases can be found below. There were no aesthetic requirements, but the default html provided was hideous, so I cleaned it up a little.
 
 #### Case #1. Performing an operation on two numbers
 
